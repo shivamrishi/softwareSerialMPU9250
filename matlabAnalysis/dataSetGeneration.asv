@@ -1,0 +1,5 @@
+%for north, choose 200 values from 400
+index = zeros(200,5);
+magDirValues = zeros(200,4,5);
+for i = 1:5
+   
